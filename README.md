@@ -8,14 +8,14 @@ A web application that allows users to load and explore 3D models in the browser
 - Camera controls (zoom, rotate)
 - Basic lighting
 
-## Tech Stack
+## Proposed Tech Stack
 - JavaScript
 - Three.js
 
 ## Demo
 (no GIF yet)
 
-## What I Learn
+## What I'll Learn
 - Working with 3D rendering
 - Managing scenes and cameras
 - Handling user interaction
